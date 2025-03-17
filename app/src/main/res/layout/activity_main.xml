@@ -64,15 +64,15 @@
         android:id="@+id/loginButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="136dp"
-        android:layout_marginTop="108dp"
+        android:layout_marginStart="148dp"
+        android:layout_marginTop="216dp"
         android:backgroundTint="#0D0D0D"
         android:fontFamily="serif-monospace"
         android:text="Login"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/welcomeTextView" />
+        app:layout_constraintTop_toBottomOf="@+id/nameEditText" />
 
     <ImageView
         android:id="@+id/imageView4"
@@ -95,17 +95,5 @@
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView3" />
-
-    <TextView
-        android:id="@+id/welcomeTextView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="96dp"
-        android:layout_marginTop="116dp"
-        android:fontFamily="serif-monospace"
-        android:textSize="24sp"
-        android:textStyle="bold"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/nameEditText" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
