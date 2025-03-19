@@ -41,6 +41,7 @@ class MainActivity : AppCompatActivity() {
                 // If the name is empty, show the error message
                 errorTextView.visibility = View.VISIBLE // Make error message visible
                 errorTextView.text = "Please enter a valid username!" // Set the error message
+                Toast.makeText(this@MainActivity, "Login failed", Toast.LENGTH_SHORT).show()
             }
         }
     }
