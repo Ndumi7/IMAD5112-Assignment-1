@@ -63,7 +63,8 @@ The confirm button lets users approve the meal suggestion, adding an extra layer
 
 You can find the source code for this project on GitHub: [IMAD5112-Assignment-1] (https://github.com/Ndumi7/IMAD5112-Assignment-1.git)
 
-## Presentation link (https://youtu.be/KBN_la7QPFM)
+## Presentation link 
+(https://youtu.be/KBN_la7QPFM)
 
 ## License
 
