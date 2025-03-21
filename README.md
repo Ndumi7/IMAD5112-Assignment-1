@@ -33,7 +33,7 @@ To run this app locally:
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or device.
 
-# Design Considerations
+## Design Considerations
 
 1. User-Friendly Interface - The app is has a minimalist user interface focusing on easy usage and simplicity.The interface includes basic controls such as:
 A button to trigger meal suggestions.
@@ -50,7 +50,7 @@ The app includes a case-sensitive input reminder for any user inputs that requir
 A reset button allows users to clear the current meal suggestion, providing a fresh start for another suggestion.
 The confirm button lets users approve the meal suggestion, adding an extra layer of interactivity.
 
-# Github utilization
+## Github utilization
 
 1. Version control - GitHub has been utilized for version control to keep track of all changes made to the project. By using Git, we can easily manage multiple versions of the app, collaborate with others, and maintain a history of changes.
 
@@ -62,6 +62,8 @@ The confirm button lets users approve the meal suggestion, adding an extra layer
 ## Project Repository
 
 You can find the source code for this project on GitHub: [IMAD5112-Assignment-1] (https://github.com/Ndumi7/IMAD5112-Assignment-1.git)
+
+## Presentation link (https://youtu.be/KBN_la7QPFM)
 
 ## License
 
