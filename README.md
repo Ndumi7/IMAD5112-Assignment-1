@@ -4,7 +4,7 @@ A simple meal suggestion app built using Kotlin.
 
 ## Features
 
-- Randomly suggests a meal.
+- Uses hard-code text to suggest a meal.
 - Includes a reset button to reset the meal suggestion.
 - Displays a "Enjoy your meal" message after a meal suggestion.
 - User-friendly interface with a case-sensitive input reminder.
@@ -13,9 +13,13 @@ A simple meal suggestion app built using Kotlin.
 ## How to Use
 
 1. Open the app.
-2. Press the "Suggest Meal" button to get a random meal suggestion.
-3. Press the "Reset" button to reset the suggestion.
-4. Enjoy your meal!
+2. Enter your username.
+3. Press the "Confirm" button to advance to the suggestion page.
+4. Enter period of the day.
+5. Press the "Confirm" button to receive meal suggestion.
+6. Press the "Confirm" button to confirm the meal suggestion.
+7. Enjoy your meal!
+8. Press the "Reset" button to change clear everything.
 
 ## Setup
 
@@ -28,6 +32,14 @@ To run this app locally:
 
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or device.
+
+# Github utilization
+
+GitHub has been utilized for version control to keep track of all changes made to the project. By using Git, we can easily manage multiple versions of the app, collaborate with others, and maintain a history of changes.
+
+## Project Repository
+
+You can find the source code for this project on GitHub: [IMAD5112-Assignment-1] (https://github.com/Ndumi7/IMAD5112-Assignment-1.git)
 
 ## License
 
