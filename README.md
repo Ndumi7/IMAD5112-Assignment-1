@@ -4,22 +4,24 @@ A simple meal suggestion app built using Kotlin.
 
 ## Features
 
-- Uses hard-coded text to suggest a meal.
-- Includes a reset button to reset the meal suggestion.
-- Displays a "Enjoy your meal" message after a meal suggestion.
-- User-friendly interface with a case-sensitive input reminder.
-- Simple breakfast suggestion with emojis 🍞, 🧈, 🍯.
+- Uses hard-coded text for the suggestion of the meal.
+- Has a reset button that clears the meal suggestion after user has gotten desired meal suggestion.
+- Has a confirm button that confirms and acknowledges your meal suggestion.
+- The user interface has a simple and minimalisticdesign that is easy to navigate.
+- Notifies user that meal sugestion text is case sensitive.
+- Has emojis to keep the minimalistic design but make it more fun to use(🍞, 🧈, 🍯).
+- Has a toast to notify the user that meal is confirmed or failed.
+- Has an error text that notifies user when confirming without time of day input.
+- "Enjoy your meal" text is displayed after confirming your meal.
 
 ## How to Use
 
 1. Open the app.
-2. Enter your username.
-3. Press the "Confirm" button to advance to the suggestion page.
-4. Enter period of the day.
-5. Press the "Confirm" button to receive meal suggestion.
-6. Press the "Confirm" button to confirm the meal suggestion.
-7. Enjoy your meal!
-8. Press the "Reset" button to change clear everything.
+2. To continue to the suggestion page, enter username and click the confirm button.
+3. Input the time of the day and click the confirm button to get your meal suggestion.
+4. Click the confirm button again to accept your suggestion.
+5. Click the reset button to clear and restart process.
+
 
 ## Setup
 
