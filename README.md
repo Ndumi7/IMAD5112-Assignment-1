@@ -37,29 +37,17 @@ To run this app locally:
 
 ## Design Considerations
 
-1. User-Friendly Interface - The app is has a minimalist user interface focusing on easy usage and simplicity.The interface includes basic controls such as:
-A button to trigger meal suggestions.
-A reset button to clear the current suggestion.
-An "enjoy your meal message displayed" after a suggestion is made.
-A bunch of emojis to A bunch of emojis to enhance the user experience and make it visually appealing.
-
-2. Hardcoded Meal Data
-For simplicity and as a beginner project, the meal suggestions are hardcoded into the app. This avoids the complexity of database integration at this stage.
-
-3. Case-Sensitive Input Reminder
-The app includes a case-sensitive input reminder for any user inputs that require a specific case format (such as button text). This ensures that users provide inputs correctly and receive accurate suggestions.
-4. Reset and Confirm Buttons
-A reset button allows users to clear the current meal suggestion, providing a fresh start for another suggestion.
-The confirm button lets users approve the meal suggestion, adding an extra layer of interactivity.
+1. Used a simple design for the user interface so that it is easily accessible and navigate.
+2. Included only a few key functions to maintain simplicity.
+3. Consists of only a few options to avoid confusion.
+4. Included a tip that notifies thecase sensitive input.
 
 ## Github utilization
 
-1. Version control - GitHub has been utilized for version control to keep track of all changes made to the project. By using Git, we can easily manage multiple versions of the app, collaborate with others, and maintain a history of changes.
-
-2. Project Documentation - The README.md file is used as the project’s documentation on GitHub. It provides information about the app, installation instructions, how to use the app, and any additional details necessary for users or future contributors.
-
+1. Used Github for version control and keep track of the changes pushed and commited.
+2. Included a README.md file that has all the information about the app, including how to use it, it's features and more.
 3. Commit History - GitHub allows us to track the commit history of the app, making it easier to revert to previous versions of the project if needed. It also enables us to see the progression of features and fixes over time.
-5. Public Repository - By hosting the project on GitHub, we’ve made it publicly available for anyone to explore, contribute to, or learn from. This open-source model encourages collaboration and feedback from the community, helping the project improve.
+6. Public Repository - By hosting the project on GitHub, we’ve made it publicly available for anyone to explore, contribute to, or learn from.
 
 ## Project Repository
 
