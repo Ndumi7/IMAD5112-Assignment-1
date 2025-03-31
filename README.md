@@ -1,5 +1,13 @@
 # Meal Suggestion App
 
+
+## Project Repository
+
+You can find the source code for this project on GitHub: [IMAD5112-Assignment-1] (https://github.com/Ndumi7/IMAD5112-Assignment-1.git)
+
+## Presentation link 
+(https://youtu.be/KBN_la7QPFM)
+
 A simple meal suggestion app built using Kotlin.
 
 ## Features
@@ -49,11 +57,6 @@ To run this app locally:
 3. Commit History - GitHub allows us to track the commit history of the app, making it easier to revert to previous versions of the project if needed. It also enables us to see the progression of features and fixes over time.
 6. Public Repository - By hosting the project on GitHub, we’ve made it publicly available for anyone to explore, contribute to, or learn from.
 
-## Project Repository
 
-You can find the source code for this project on GitHub: [IMAD5112-Assignment-1] (https://github.com/Ndumi7/IMAD5112-Assignment-1.git)
-
-## Presentation link 
-(https://youtu.be/KBN_la7QPFM)
 
 
