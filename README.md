@@ -68,7 +68,4 @@ You can find the source code for this project on GitHub: [IMAD5112-Assignment-1]
 ## Presentation link 
 (https://youtu.be/KBN_la7QPFM)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
